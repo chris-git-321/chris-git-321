@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- Banner image -->
+![banner](YOUR_BANNER_IMAGE_URL)
 
-<!--
-**chris-git-321/chris-git-321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Chris 👋
 
-Here are some ideas to get you started:
+Cloud engineer in the making, based in Tokyo. Certified in CompTIA A+ and Microsoft Azure (AZ-900), currently working toward the AWS Solutions Architect Associate. I focus on architecture, deployment, and debugging — building real infrastructure I can explain end to end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### [Resume Site](https://chrismelvinresume.com)
+A static personal resume site served globally over HTTPS. Handles DNS, caching, and TLS from scratch.
+
+### [JLPT Study App](https://github.com/chris-git-321/JLPT-Study-App)
+A serverless spaced-repetition flashcard app for Japanese study. User auth, a REST API, and persistent storage, all running on a fully managed backend and deployed to a live URL.
+
+---
+
+## All projects were built with
+
+- 
+- 
+-
