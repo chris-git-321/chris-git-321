@@ -9,7 +9,7 @@ Cloud engineer in training, based in Tokyo. Certified in CompTIA A+ and Microsof
 
 ## Projects
 
-### [JLPT Study App](https://github.com/chris-git-321/JLPT-Study-App)
+### [Japanese SRS Flashcard App | Serverless Full-Stack Web App on AWS](https://github.com/chris-git-321/JLPT-Study-App)
 A serverless spaced-repetition flashcard app for Japanese study. User auth, a REST API, and persistent storage, all running on a fully managed backend and deployed to a live URL.
 
 ### [Static Resume Website on AWS S3](https://www.chrismelvinresume.com)
