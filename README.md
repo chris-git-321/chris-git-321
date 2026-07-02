@@ -3,7 +3,7 @@
 
 # Hi, I'm Chris 👋
 
-Cloud engineer in training, based in Tokyo. Certified in CompTIA A+ and Microsoft Azure (AZ-900), currently working toward the AWS Solutions Architect Associate. I focus on architecture, deployment, debugging, and building real infrastructure I can explain end to end. You can reach me here on [LinkedIn](https://www.linkedin.com/in/christopherjmelvin/).
+Cloud engineer in training, based in Tokyo. Certified in CompTIA A+ and Microsoft Azure (AZ-900), currently working toward the AWS Solutions Architect Associate. I focus on architecture, deployment, debugging, and building projects that reflect real-world environments. You can reach me here on [LinkedIn](https://www.linkedin.com/in/christopherjmelvin/).
 
 ---
 
