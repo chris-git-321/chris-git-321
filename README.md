@@ -24,6 +24,7 @@ Designed and deployed a fully responsive personal resume website hosted as a sta
 
 ## All projects were built with
 
-- 
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
 - 
 -
