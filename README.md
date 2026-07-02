@@ -9,12 +9,16 @@ Cloud engineer in training, based in Tokyo. Certified in CompTIA A+ and Microsof
 
 ## Projects
 
-### [Resume Site](https://www.chrismelvinresume.com)
-A static personal resume site served globally over HTTPS. Handles DNS, caching, and TLS from scratch.
-
-
 ### [JLPT Study App](https://github.com/chris-git-321/JLPT-Study-App)
 A serverless spaced-repetition flashcard app for Japanese study. User auth, a REST API, and persistent storage, all running on a fully managed backend and deployed to a live URL.
+
+### [Static Resume Website on AWS S3](https://www.chrismelvinresume.com)
+Designed and deployed a fully responsive personal resume website hosted as a static site on an Amazon S3 bucket with public access and static website hosting enabled.
+- Designed and deployed a personal resume website using HTML, CSS, and JavaScript, hosted on Amazon S3 with static website hosting.
+- Configured DNS and custom domain routing using Amazon Route 53 and integrated SSL/TLS certificates with AWS Certificate Manager.
+- Implemented Amazon CloudFront as a content delivery network (CDN) to provide secure HTTPS access and improve website performance.
+- Applied AWS best practices for web hosting, DNS management, content delivery, and cloud infrastructure deployment.
+
 
 ---
 
