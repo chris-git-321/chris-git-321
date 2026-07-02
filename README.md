@@ -1,5 +1,5 @@
 <!-- Banner image -->
-![banner]([YOUR_BANNER_IMAGE_URL](https://github.com/user-attachments/assets/f81be938-5997-49b3-ae07-f628b6283533))
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/0c488fa1-e848-43ad-b1ca-cc51540914ec" />
 
 # Hi, I'm Chris 👋
 
