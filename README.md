@@ -9,7 +9,7 @@ Cloud engineer in training, based in Tokyo. Certified in CompTIA A+ and Microsof
 
 ## Projects
 
-### [Resume Site](www.chrismelvinresume.com)
+### [Resume Site]([www.chrismelvinresume.com](https://www.chrismelvinresume.com/))
 A static personal resume site served globally over HTTPS. Handles DNS, caching, and TLS from scratch.
 
 
