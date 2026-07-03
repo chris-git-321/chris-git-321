@@ -11,6 +11,9 @@ Cloud engineer in training, based in Tokyo. Certified in CompTIA A+ and Microsof
 
 ### [Japanese SRS Flashcard App | Serverless Full-Stack Web App on AWS](https://github.com/chris-git-321/JLPT-Study-App)
 A serverless spaced-repetition flashcard app for Japanese study. User auth, a REST API, and persistent storage, all running on a fully managed backend and deployed to a live URL.
+- Architected and deployed a serverless full-stack web application on AWS using API Gateway, Lambda, and DynamoDB, delivering a spaced-repetition flashcard system on a fully managed, auto-scaling backend with no servers to provision.
+- Automated the entire infrastructure with AWS SAM (infrastructure-as-code), enabling repeatable, single-command deployments and version-controlled architecture across the Tokyo (ap-northeast-1) region.
+- Implemented secure user authentication and authorization with Amazon Cognito, and hosted the frontend via AWS Amplify with CI/CD from GitHub for continuous deployment on every push.
 
 ### [Static Resume Website on AWS S3](https://www.chrismelvinresume.com)
 Designed and deployed a fully responsive personal resume website hosted as a static site on an Amazon S3 bucket with public access and static website hosting enabled.
@@ -34,3 +37,7 @@ Designed and deployed a fully responsive personal resume website hosted as a sta
 ![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white)
 ![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![ACM](https://img.shields.io/badge/AWS_Certificate_Manager-DD344C?style=flat)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-E7157B?style=flat&logo=awscloudformation&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat)
