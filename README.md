@@ -16,7 +16,7 @@ A serverless spaced-repetition flashcard app for Japanese study. User auth, a RE
 - Implemented secure user authentication and authorization with Amazon Cognito, and hosted the frontend via AWS Amplify with CI/CD from GitHub for continuous deployment on every push.
 
 ### [Static Resume Website on AWS S3](https://www.chrismelvinresume.com)
-Designed and deployed a fully responsive personal resume website hosted as a static site on an Amazon S3 bucket with public access and static website hosting enabled. [Live Site](https://chrismelvinresume.com)
+Designed and deployed a fully responsive personal resume website hosted as a static site on an Amazon S3 bucket with public access and static website hosting enabled. [Live Site](www.chrismelvinresume.com)
 - Designed and deployed a personal resume website using HTML, CSS, and JavaScript, hosted on Amazon S3 with static website hosting.
 - Configured DNS and custom domain routing using Amazon Route 53 and integrated SSL/TLS certificates with AWS Certificate Manager.
 - Implemented Amazon CloudFront as a content delivery network (CDN) to provide secure HTTPS access and improve website performance.
