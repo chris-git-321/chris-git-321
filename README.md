@@ -3,11 +3,11 @@
 
 # Hi, I'm Chris 👋
 
-Cloud engineer in training, based in Tokyo. Certified in CompTIA A+ and Microsoft Azure (AZ-900), currently working toward the AWS Solutions Architect Associate. I focus on architecture, deployment, debugging, and building projects that reflect real-world environments. You can reach me here on [LinkedIn](https://www.linkedin.com/in/christopherjmelvin/).
+Cloud engineer building on AWS, based in Tokyo. Certified in CompTIA A+ and Microsoft Azure (AZ-900), currently working toward the AWS Solutions Architect Associate. I focus on architecture, deployment, debugging, and building projects that reflect real-world environments. Please feel free to reach me here on [LinkedIn](https://www.linkedin.com/in/christopherjmelvin/).
 
 ---
 
-## Projects
+## Cloud Engineering Projects:
 
 ### [Japanese SRS Flashcard App | Serverless Full-Stack Web App on AWS](https://github.com/chris-git-321/JLPT-Study-App)
 A serverless spaced-repetition flashcard app for Japanese study. User auth, a REST API, and persistent storage, all running on a fully managed backend and deployed to a live URL.
@@ -25,7 +25,7 @@ Designed and deployed a fully responsive personal resume website hosted as a sta
 
 ---
 
-## All projects were built with
+## All projects were built with:
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
@@ -41,3 +41,12 @@ Designed and deployed a fully responsive personal resume website hosted as a sta
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-E7157B?style=flat&logo=awscloudformation&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat)
+
+---
+
+## Certifications:
+
+- [CompTIA A+](https://www.credly.com/badges/4b8a4dd2-3014-4c22-a0e9-b2e9e1f4275e/linked_in_profile)
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/christophermelvin-1778/credentials/8144530b086fc618?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- JLPT N3 (Japanese Language Proficiency)
+- AWS Certified Solutions Architect – Associate *(in progress)*
