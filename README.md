@@ -9,6 +9,13 @@ Cloud engineer building on AWS, based in Tokyo. Certified in CompTIA A+ and Micr
 
 ## Cloud Engineering Projects:
 
+### [Booking API | Containerized Booking System on AWS](https://github.com/chris-git-321/booking-api)
+A containerized booking API and staff dashboard built to prevent double-bookings, with infrastructure entirely defined in Terraform and deployed on AWS. [Screenshots & Architecture](https://github.com/chris-git-321/booking-api#screenshots)
+- Architected and deployed a containerized Flask API on AWS ECS Fargate behind an Application Load Balancer, with PostgreSQL on RDS running in private subnets with no public access.
+- Automated the entire infrastructure with Terraform, covering VPC networking, IAM roles, security groups, and Secrets Manager, enabling reproducible, single-command environment builds and teardowns.
+- Built a CI/CD pipeline with GitHub Actions authenticated via OIDC (no stored AWS credentials), automatically building ARM64 Docker images with Buildx/QEMU and deploying to ECS on every push.
+- Enforced business logic at the database layer with a PostgreSQL unique constraint to prevent double-bookings, and configured target-tracking auto-scaling to handle variable demand.
+
 ### [Japanese SRS Flashcard App | Serverless Full-Stack Web App on AWS](https://github.com/chris-git-321/JLPT-Study-App)
 A serverless spaced-repetition flashcard app for Japanese study. User auth, a REST API, and persistent storage, all running on a fully managed backend and deployed to a live URL. [Live App](https://main.d29wdhgx4kddtc.amplifyapp.com/)
 - Architected and deployed a serverless full-stack web application on AWS using API Gateway, Lambda, and DynamoDB, delivering a spaced-repetition flashcard system on a fully managed, auto-scaling backend with no servers to provision.
