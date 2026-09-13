@@ -10,7 +10,7 @@ Cloud engineer building on AWS, based in Tokyo. Certified in CompTIA A+ and Micr
 ## Cloud Engineering Projects:
 
 ### [React Resume Platform | Containerized Portfolio Site on AWS](https://github.com/chris-git-321/react-resume-platform)
-A React portfolio application containerized and deployed to AWS, built to practice infrastructure provisioning, monitoring, and incident response
+Built a simple resume platform with React + Vite, put inside a VPC, added a load balancer, provisioned through Terraform, CI/CD pipeline with GitHub Actions, and monitored through cloud watch. Documented problems that were troubleshooted along the way within the repo read.me file.
 - React frontend built with Vite and packaged as a Docker image in Amazon ECR.
 - Running on ECS Fargate behind an Application Load Balancer, with tasks in private subnets.
 - Infrastructure provisioned with Terraform so the environment can be rebuilt from an empty account.
