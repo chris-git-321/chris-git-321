@@ -9,6 +9,14 @@ Cloud engineer building on AWS, based in Tokyo. Certified in CompTIA A+ and Micr
 
 ## Cloud Engineering Projects:
 
+### [React Resume Platform | Containerized Portfolio Site on AWS](https://github.com/chris-git-321/react-resume-platform)
+A React portfolio application containerized and deployed to AWS, built to practice infrastructure provisioning, monitoring, and incident response
+- React frontend built with Vite and packaged as a Docker image in Amazon ECR.
+- Running on ECS Fargate behind an Application Load Balancer, with tasks in private subnets.
+- Infrastructure provisioned with Terraform so the environment can be rebuilt from an empty account.
+- CloudWatch monitoring, plus deliberate failure scenarios documented as incident write-ups.
+- Tasks run in private subnets with no internet route, reaching ECR and CloudWatch through VPC endpoints rather than a NAT Gateway.
+
 ### [Booking API | Containerized Booking System on AWS](https://github.com/chris-git-321/booking-api)
 A containerized booking API and staff dashboard built to prevent double-bookings, with infrastructure entirely defined in Terraform and deployed on AWS. [Screenshots & Architecture](https://github.com/chris-git-321/booking-api#screenshots)
 - Architected and deployed a containerized Flask API on AWS ECS Fargate behind an Application Load Balancer, with PostgreSQL on RDS running in private subnets with no public access.
